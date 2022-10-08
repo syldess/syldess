@@ -6,9 +6,9 @@
 <a href="https://www.hackerrank.com/syldess">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/hackerrank.svg" alt="Sylvain Dessureault's HackerRank Profile" height="40" width="40">
 </a>
-<!-- <a href="">
+<a href="https://codepen.io/sylvaindessureault">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" alt="Sylvain Dessureault's Codepen Profile" height="40" width="40">
-</a> -->
+</a>
 
 ##
 
