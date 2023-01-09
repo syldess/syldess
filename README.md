@@ -20,6 +20,7 @@
 ![](https://img.shields.io/badge/NodeJS-informational?style=for-the-badge&logo=node.js&color=000000)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&color=000000)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&color=000000)
+![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&color=000000)
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=c%2B%2B&&color=000000)
 
 <!-- ## &#x270d; Blog & Writing -->
