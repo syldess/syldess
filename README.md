@@ -31,6 +31,8 @@
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
+![](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![](https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white)
 
 ## 💻 Other Languages and Frameworks I've Worked With
 
@@ -42,7 +44,6 @@
 ![](https://img.shields.io/badge/OCaml-white?style=flat-square&logo=ocaml&logoColor=orange)
 ![](https://img.shields.io/badge/Ruby-CC0000?style=flat-square&logo=Ruby&logoColor=white)
 ![](https://img.shields.io/badge/RubyOnRails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=white)
-![](https://img.shields.io/badge/angular.js-DD0031?style=flat-square&logo=angularjs&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white)
 
 <h2>Projects</h2>
