@@ -43,7 +43,6 @@
         <h3 align="center">Internal-Comms</h3>
         <p align="center">
           <a href="https://internalcomms.netlify.app/" target="_blank" ref="noreferrer"> <img src="https://github.com/syldess/syldess.github.io/blob/main/img/projects/internal-comms.PNG?raw=true" alt="Internal Comms Demo"/>
-          <a href="https://github.com/syldess/internal-comms-demo" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Code-lightblue?style=for-the-badge&logo=github"></a>
           <a href="https://internalcomms.netlify.app/" target="_blank" ref="noreferrer"><img src="https://img.shields.io/badge/Live-blue?style=for-the-badge"></a>
           <p align="center">A Demo App of a Simple Ticketing System for Small Businesses. Developed using React.</p>
         </p>
